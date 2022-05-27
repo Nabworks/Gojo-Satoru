@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𓁩NAB🜲bot〠⃟⛐
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -27,8 +27,8 @@ global.botname = '𓁩NAB🜲bot〠⃟⛐'
 global.footer = '©𓁩NAB🜲works〠⃟⛐.'
 global.ig = 'https://Instagram.com/nab.gains'
 global.region = 'Vaal Nation'
-global.sc = 'invalid jou poes'
-global.myweb = 'coming soon'
+global.sc = 'https://youtu.be/aph686yUJnw'
+global.myweb = 'https://youtu.be/aph686yUJnw'
 global.packname = '𓁩NAB🜲bot〠⃟⛐'
 global.author = '🐦𓁩NAB🜲〠⃟⛐'
 global.sessionName = 'session'
