@@ -1,8 +1,8 @@
-import { createCanvas, loadImage } from 'canvas';
+const { createCanvas, loadImage } from 'canvas';
 
-import { join } from 'path';
+const { join } from 'path';
 
-import { Utils } from '../lib';
+const { Utils } from '../lib';
 
 export class Crush {
 
